@@ -1,3 +1,8 @@
+# What this is
+The quality on many of the images is not great. I've been cleaning these up as best as I can with Illustrator, Photoshop, etc. I'll be glad to replace my edited versions with higher quality images from the original artists if I can get ahold of them!
+
+I'm also editing the MacOS installation scripts. MacOS System Integrity Protection prevents writing to /usr/bin, so the installation will fail on MacOS without disabling SIP.
+
 # Archive
 On 23th of April 2024, I archived this repository. Additional details in [#257](https://github.com/TheDarkBug/uwufetch/issues/257)
 # UwUFetch
